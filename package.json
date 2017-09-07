@@ -1,0 +1,28 @@
+{
+  "name": "bsgreaves-personal-site",
+  "version": "1.0.0",
+  "description": "www.bsgreaves.com",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BSGreaves/personal-site.git"
+  },
+  "author": "Ben Greaves",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BSGreaves/personal-site/issues"
+  },
+  "homepage": "https://github.com/BSGreaves/personal-site#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-beta",
+    "jquery": "^3.2.1",
+    "popper.js": "^1.12.5"
+  },
+  "devDependencies": {
+    "browser-sync": "2.18.13",
+    "gulp": "^3.9.1"
+  }
+}
